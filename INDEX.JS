@@ -1,5 +1,4 @@
-import faizanimg from '';
-
+import faizanimg from ''
 import abubaker from '';
 import danish from '';
 import azher from '';
